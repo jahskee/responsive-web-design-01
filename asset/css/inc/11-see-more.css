@@ -1,0 +1,26 @@
+/* line 1, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/11-see-more.scss */
+.see-more {
+  display: inline-block;
+  text-decoration: none;
+}
+
+/* line 6, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/11-see-more.scss */
+.see-more .text {
+  position: relative;
+  top: 7px;
+  left: -8px;
+  font-style: italic;
+  color: black;
+}
+
+/* line 14, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/11-see-more.scss */
+.see-more:hover {
+  text-decoration: underline;
+}
+
+/* line 17, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/11-see-more.scss */
+.see-more img {
+  width: 30px;
+}
+
+/*# sourceMappingURL=../../css/inc/11-see-more.map */

@@ -1,0 +1,124 @@
+/* query for tablet devices */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  /* line 5, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/19-screen-tablet.scss */
+  .col {
+    margin: 1% 0 0.5% 0.5%;
+    padding: 0;
+    /*margin: 1% 0.5% 0 0;*/
+  }
+  /* line 11, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/19-screen-tablet.scss */
+  .col-5,
+  .col-6,
+  .col-7 {
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+  }
+  /* line 20, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/19-screen-tablet.scss */
+  .col-1,
+  .col-2,
+  .col-3,
+  .col-4 {
+    width: 49.75%;
+  }
+  /* line 28, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/19-screen-tablet.scss */
+  .main-menu {
+    display: none;
+  }
+  /* line 32, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/19-screen-tablet.scss */
+  .wrapper {
+    width: 98%;
+    background: #8d8d8d;
+  }
+  /* line 37, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/19-screen-tablet.scss */
+  .row-med-start {
+    margin-left: 0;
+  }
+  /* line 40, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/19-screen-tablet.scss */
+  .panel {
+    /* height: inherit;*/
+  }
+  /* line 45, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/19-screen-tablet.scss */
+  .panel img {
+    width: 100%;
+  }
+  /* line 49, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/19-screen-tablet.scss */
+  .wrapper {
+    position: static;
+  }
+  /* line 54, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/19-screen-tablet.scss */
+  .see-more img {
+    width: 30px;
+  }
+  /* line 59, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/19-screen-tablet.scss */
+  .col img {
+    margin-bottom: 1em;
+    margin-right: 1em;
+  }
+  /* line 64, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/19-screen-tablet.scss */
+  .header #cssmenu {
+    background: rgba(41, 0, 0, 0);
+    position: relative;
+    top: 0px;
+  }
+  /* line 70, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/19-screen-tablet.scss */
+  .footer-sponsors {
+    width: 100%;
+  }
+  /* line 74, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/19-screen-tablet.scss */
+  .social-media-desktop {
+    display: none;
+  }
+  /* line 78, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/19-screen-tablet.scss */
+  .social-media-mobile {
+    display: block;
+  }
+  /* line 82, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/19-screen-tablet.scss */
+  .header {
+    background: url(../img/header/header-tablet.jpg);
+  }
+  /* line 86, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/19-screen-tablet.scss */
+  .hero-title {
+    top: 180px;
+    font-size: 1.6em;
+  }
+  /* line 92, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/19-screen-tablet.scss */
+  .hero-title h3 {
+    left: -30px;
+  }
+  /* line 96, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/19-screen-tablet.scss */
+  .hero-title h1 {
+    left: 30px;
+  }
+  /* line 101, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/19-screen-tablet.scss */
+  .float-menu {
+    display: none;
+  }
+  /* line 105, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/19-screen-tablet.scss */
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  /* line 110, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/19-screen-tablet.scss */
+  .col-2:nth-child(odd) {
+    margin-left: 0;
+    width: 49%;
+    margin-right: 3px;
+  }
+  /* line 117, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/19-screen-tablet.scss */
+  .col-4:nth-child(odd) {
+    width: 49%;
+    margin-right: 3px;
+  }
+  /* line 121, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/19-screen-tablet.scss */
+  .col-4:nth-child(even) {
+    width: 49%;
+    margin-right: 0;
+  }
+  /* line 126, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/19-screen-tablet.scss */
+  .col-4 {
+    width: 100%;
+  }
+}
+
+/*# sourceMappingURL=../../css/inc/19-screen-tablet.map */

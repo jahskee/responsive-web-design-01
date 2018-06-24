@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../../scss/inc/16-social-media-mobile.css",
+	"sources": [
+		"../../scss/inc/16-social-media-mobile.scss"
+	],
+	"sourcesContent": [
+		"/*\n.social-media-mobile {\n    display:block;\n    background: blue;\n\n\n    width:195px;\n    margin: 0 auto;\n}\n*/\n.social-media-mobile ul li {\n    display: inline-block;\n}\n\n.social-media-mobile ul li a {\n    display: block;\n}\n\n.social-media-mobile {\n    width: 200px;\n    margin: 0 auto;\n}"
+	],
+	"mappings": "AAAA;;;;;;;;;EASE;;AACF,AAAwB,oBAAJ,CAAC,EAAE,CAAC,EAAE,CAAC;EACvB,OAAO,EAAE,YAAa;CACzB;;;AAED,AAA2B,oBAAP,CAAC,EAAE,CAAC,EAAE,CAAC,CAAC,CAAC;EACzB,OAAO,EAAE,KAAM;CAClB;;;AAED,AAAA,oBAAoB,CAAC;EACjB,KAAK,EAAE,KAAM;EACb,MAAM,EAAE,MAAO;CAClB",
+	"names": []
+}

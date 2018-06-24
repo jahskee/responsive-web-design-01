@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../../scss/inc/08-hero-title.css",
+	"sources": [
+		"../../scss/inc/08-hero-title.scss"
+	],
+	"sourcesContent": [
+		".hero-title {\n    position: absolute;\n    top: 300px;\n    font-size: 3em;\n    font-family: playball;\n    z-index: 20;\n    width: 100%;\n\n    color: white;\n    text-align: center;\n\n    text-shadow: rgb(3, 3, 3) 3px 3px 7px;\n    pointer-events: none;\n}\n\n.hero-title h3 {\n    position: relative;\n    left: -100px;\n    z-index: 20;\n}\n\n.hero-title h1  {\n    position: relative;\n    left: 100px;\n    z-index: 20;\n}\n\n/*\n.hero-title h3 {\n    animation: left2right 20s ease alternate infinite;\n}\n\n.hero-title h1 {\n    animation: right2left 20s ease alternate infinite;\n}\n\n@keyframes left2right {\n   from {\n       left:-400px;\n\n   }\n\n   to {\n        left: 400px;\n\n   }\n}\n\n@keyframes right2left {\n    from {\n        left:400px;\n    }\n\n    to {\n        left: -400px;\n    }\n}\n*/"
+	],
+	"mappings": ";AAAA,AAAA,WAAW,CAAC;EACR,QAAQ,EAAE,QAAS;EACnB,GAAG,EAAE,KAAM;EACX,SAAS,EAAE,GAAI;EACf,WAAW,EAAE,QAAS;EACtB,OAAO,EAAE,EAAG;EACZ,KAAK,EAAE,IAAK;EAEZ,KAAK,EAAE,KAAM;EACb,UAAU,EAAE,MAAO;EAEnB,WAAW,EAAE,OAAG,CAAU,GAAG,CAAC,GAAG,CAAC,GAAG;EACrC,cAAc,EAAE,IAAK;CACxB;;;AAED,AAAY,WAAD,CAAC,EAAE,CAAC;EACX,QAAQ,EAAE,QAAS;EACnB,IAAI,EAAE,MAAO;EACb,OAAO,EAAE,EAAG;CACf;;;AAED,AAAY,WAAD,CAAC,EAAE,CAAE;EACZ,QAAQ,EAAE,QAAS;EACnB,IAAI,EAAE,KAAM;EACZ,OAAO,EAAE,EAAG;CACf;;AAED;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EA8BE",
+	"names": []
+}

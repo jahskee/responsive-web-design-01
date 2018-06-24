@@ -1,0 +1,19 @@
+.see-more {
+    display: inline-block;
+    text-decoration: none;
+}
+
+.see-more .text {
+    position: relative;
+    top: 7px;
+    left: -8px;
+    font-style: italic;
+    color: black;
+}
+
+.see-more:hover {
+    text-decoration: underline;
+}
+.see-more img{
+    width: 30px;
+}

@@ -1,0 +1,22 @@
+/*
+.social-media-mobile {
+    display:block;
+    background: blue;
+
+
+    width:195px;
+    margin: 0 auto;
+}
+*/
+.social-media-mobile ul li {
+    display: inline-block;
+}
+
+.social-media-mobile ul li a {
+    display: block;
+}
+
+.social-media-mobile {
+    width: 200px;
+    margin: 0 auto;
+}

@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../../scss/inc/01-initialize.css",
+	"sources": [
+		"../../scss/inc/01-initialize.scss"
+	],
+	"sourcesContent": [
+		"@font-face {\n    font-family: playball;\n    src: url(/asset/font/Playball.ttf);\n}\n\nhtml {\n    box-sizing: border-box;\n    margin-top: 0px;\n}\n\n*,\n*:before,\n*:after {\n    box-sizing: inherit;\n}\n\nbody {\n    font-family: Georgia, Arial, Geneva, sans-serif;\n    background-color: lightgray;\n}\n\nh1, h2, h3, h4, h5, h6 {\n    margin: 0;\n}\n\nh1 { font-size: 1.6em;}\n\n"
+	],
+	"mappings": "AAAA,UAAU;EACN,WAAW,EAAE,QAAS;EACtB,GAAG,EAA8B,6BAAC;;;;AAGtC,AAAA,IAAI,CAAC;EACD,UAAU,EAAE,UAAW;EACvB,UAAU,EAAE,GAAI;CACnB;;;AAED,AAAA,CAAC;AACD,AAAC,CAAA,AAAA,OAAO;AACR,AAAC,CAAA,AAAA,MAAM,CAAC;EACJ,UAAU,EAAE,OAAQ;CACvB;;;AAED,AAAA,IAAI,CAAC;EACD,WAAW,EAAE,kCAAmC;EAChD,gBAAgB,EAAE,SAAU;CAC/B;;;AAED,AAAA,EAAE,EAAE,AAAA,EAAE,EAAE,AAAA,EAAE,EAAE,AAAA,EAAE,EAAE,AAAA,EAAE,EAAE,AAAA,EAAE,CAAC;EACnB,MAAM,EAAE,CAAE;CACb;;;AAED,AAAA,EAAE,CAAC;EAAE,SAAS,EAAE,KAAM;CAAG",
+	"names": []
+}

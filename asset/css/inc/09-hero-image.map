@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../../scss/inc/09-hero-image.css",
+	"sources": [
+		"../../scss/inc/09-hero-image.scss"
+	],
+	"sourcesContent": [
+		".hero-image {\n    border: 5px solid white;\n    padding: 0;\n    margin-bottom: 10px;\n\n\n    -webkit-box-shadow: 9px 6px 44px -4px rgba(0,0,0,0.75);\n    -moz-box-shadow: 9px 6px 44px -4px rgba(0,0,0,0.75);\n    box-shadow: 9px 6px 44px -4px rgba(0,0,0,0.75);\n}"
+	],
+	"mappings": ";AAAA,AAAA,WAAW,CAAC;EACR,MAAM,EAAE,eAAgB;EACxB,OAAO,EAAE,CAAE;EACX,aAAa,EAAE,IAAK;EAGpB,kBAAkB,EAAE,GAAG,CAAC,GAAG,CAAC,IAAI,CAAE,IAAG,CAAC,mBAAI;EAC1C,eAAe,EAAE,GAAG,CAAC,GAAG,CAAC,IAAI,CAAE,IAAG,CAAC,mBAAI;EACvC,UAAU,EAAE,GAAG,CAAC,GAAG,CAAC,IAAI,CAAE,IAAG,CAAC,mBAAI;CACrC",
+	"names": []
+}

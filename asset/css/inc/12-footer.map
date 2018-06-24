@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../../scss/inc/12-footer.css",
+	"sources": [
+		"../../scss/inc/12-footer.scss"
+	],
+	"sourcesContent": [
+		"\n.footer {\n    background: lightgray;\n    margin-top: 50px;\n    /* margin-bottom: 100px;*/\n    width: 100%;\n    /*height: 150px;*/\n\n}\n\n\n.footer-top {\n    height: 40px;\n    background: rgba(0, 0, 0, 0.76);\n    color: white;\n    text-align: center;\n    font-size: 0.7em;\n    padding-top: 15px;\n}\n\n\n/*\n.footer-bottom {\n    padding-left: 50px;\n    padding-top: 30px;\n\n    background: lightgray;\n    border: 1px solid red;\n}\n*/\n\n"
+	],
+	"mappings": ";AACA,AAAA,OAAO,CAAC;EACJ,UAAU,EAAE,SAAU;EACtB,UAAU,EAAE,IAAK;EACjB,0BAA0B;EAC1B,KAAK,EAAE,IAAK;EACZ,kBAAkB;CAErB;;;AAGD,AAAA,WAAW,CAAC;EACR,MAAM,EAAE,IAAK;EACb,UAAU,EAAE,mBAAI;EAChB,KAAK,EAAE,KAAM;EACb,UAAU,EAAE,MAAO;EACnB,SAAS,EAAE,KAAM;EACjB,WAAW,EAAE,IAAK;CACrB;;AAGD;;;;;;;;EAQE",
+	"names": []
+}

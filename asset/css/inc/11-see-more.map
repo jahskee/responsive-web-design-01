@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../../scss/inc/11-see-more.css",
+	"sources": [
+		"../../scss/inc/11-see-more.scss"
+	],
+	"sourcesContent": [
+		".see-more {\n    display: inline-block;\n    text-decoration: none;\n}\n\n.see-more .text {\n    position: relative;\n    top: 7px;\n    left: -8px;\n    font-style: italic;\n    color: black;\n}\n\n.see-more:hover {\n    text-decoration: underline;\n}\n.see-more img{\n    width: 30px;\n}\n"
+	],
+	"mappings": ";AAAA,AAAA,SAAS,CAAC;EACN,OAAO,EAAE,YAAa;EACtB,eAAe,EAAE,IAAK;CACzB;;;AAED,AAAU,SAAD,CAAC,KAAK,CAAC;EACZ,QAAQ,EAAE,QAAS;EACnB,GAAG,EAAE,GAAI;EACT,IAAI,EAAE,IAAK;EACX,UAAU,EAAE,MAAO;EACnB,KAAK,EAAE,KAAM;CAChB;;;AAED,AAAS,SAAA,AAAA,MAAM,CAAC;EACZ,eAAe,EAAE,SAAU;CAC9B;;;AACD,AAAU,SAAD,CAAC,GAAG,CAAA;EACT,KAAK,EAAE,IAAK;CACf",
+	"names": []
+}

@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../../scss/inc/07-panel.css",
+	"sources": [
+		"../../scss/inc/07-panel.scss"
+	],
+	"sourcesContent": [
+		".panel-plain {\n\n    padding: 10px;\n    padding-top: 15px;\n    padding-left: 15px;\n\n/*\n    -webkit-box-shadow: 9px 6px 44px -4px rgba(0,0,0,0.75);\n    -moz-box-shadow: 9px 6px 44px -4px rgba(0,0,0,0.75);\n    box-shadow: 9px 6px 44px -4px rgba(0,0,0,0.75);\n*/\n\n}\n\n.panel {\n   /* margin-bottom: 10px;*/\n    /*height: 500px;*/\n    background: white;\n    border-bottom-right-radius: 10px;\n    border-top-left-radius: 10px;\n}\n\n.panel p {\n    /*text-align: justify;*/\n}\n/*\n.panel img {\n    width: 65%;\n    float: left;\n    padding-right: 10px;\n}\n*/\n\n.col {\n    background: #d3d3d3;\n}\n\n.col-4 img {\n\n    float: left;\n    width: 350px;\n    float: left;\n    padding-right: 10px;\n}\n\n.col-2 img {\n    float: left;\n    width: 100%;\n    float: left;\n    padding-right: 10px;\n    padding-bottom: 10px;\n}\n\n\n"
+	],
+	"mappings": ";AAAA,AAAA,YAAY,CAAC;EAET,OAAO,EAAE,IAAK;EACd,WAAW,EAAE,IAAK;EAClB,YAAY,EAAE,IAAK;EAEvB;;;;EAIE;CAED;;;AAED,AAAA,MAAM,CAAC;EACJ,yBAAyB;EACxB,kBAAkB;EAClB,UAAU,EAAE,KAAM;EAClB,0BAA0B,EAAE,IAAK;EACjC,sBAAsB,EAAE,IAAK;CAChC;;;AAED,AAAO,MAAD,CAAC,CAAC,CAAC;EACL,wBAAwB;CAC3B;;AACD;;;;;;EAME;;AAEF,AAAA,IAAI,CAAC;EACD,UAAU,EAAE,OAAQ;CACvB;;;AAED,AAAO,MAAD,CAAC,GAAG,CAAC;EAEP,KAAK,EAAE,IAAK;EACZ,KAAK,EAAE,KAAM;EACb,KAAK,EAAE,IAAK;EACZ,aAAa,EAAE,IAAK;CACvB;;;AAED,AAAO,MAAD,CAAC,GAAG,CAAC;EACP,KAAK,EAAE,IAAK;EACZ,KAAK,EAAE,IAAK;EACZ,KAAK,EAAE,IAAK;EACZ,aAAa,EAAE,IAAK;EACpB,cAAc,EAAE,IAAK;CACxB",
+	"names": []
+}

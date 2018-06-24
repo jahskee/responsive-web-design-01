@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../../scss/inc/06-grid.css",
+	"sources": [
+		"../../scss/inc/06-grid.scss"
+	],
+	"sourcesContent": [
+		".wrapper {\n    width: 1200px;\n    margin: 0 auto;\n    margin-top: 90px;\n    font-size: 0.8em;\n    z-index: 5;\n}\n\n/* GRID SYSTEM */\n\n/*  SECTIONS  */\n.row {\n    /*clear: both;*/\n    display:-webkit-flex;\n     display: -moz-box;\n    display: -ms-flexbox;\n    display: flex;\n\n    -webkit-flex-wrap: wrap;\n    flex-wrap: wrap;\n\n\n    padding: 0px;\n    margin: 0px;\n\n    \n}\n\n/*  GROUPING  */\n.row:before,\n.row:after { content:\"\"; display:table; }\n.row:after { clear:both;}\n/*.row { zoom:1;}*/\n\n\n\n/*  COLUMN SETUP  */\n.col {\n    display: block;\n    float:left;\n    margin: 1.5% 0 0.6% 0.4%;\n}\n.col:first-child { margin-left: 0; }\n\n.col-8 {\n    width: 100%;\n}\n\n.col-7 {\n    width: 87.43%;\n}\n\n.col-6 {\n    width: 74.87%;\n}\n\n.col-5 {\n    width: 62.31%;\n}\n\n.col-4 {\n    width: 49.71%;\n}\n\n.col-3 {\n    width: 37.18%;\n}\n\n.col-2 {\n    width: 24.64%;\n}\n\n.col-1 {\n    width: 12.06%;\n}"
+	],
+	"mappings": ";AAAA,AAAA,QAAQ,CAAC;EACL,KAAK,EAAE,MAAO;EACd,MAAM,EAAE,MAAO;EACf,UAAU,EAAE,IAAK;EACjB,SAAS,EAAE,KAAM;EACjB,OAAO,EAAE,CAAE;CACd;;AAED,iBAAiB;AAEjB,gBAAgB;;AAChB,AAAA,IAAI,CAAC;EACD,gBAAgB;EAChB,OAAO,EAAC,YAAa;EACpB,OAAO,EAAE,QAAS;EACnB,OAAO,EAAE,WAAY;EACrB,OAAO,EAAE,IAAK;EAEd,iBAAiB,EAAE,IAAK;EACxB,SAAS,EAAE,IAAK;EAGhB,OAAO,EAAE,GAAI;EACb,MAAM,EAAE,GAAI;CAGf;;AAED,gBAAgB;;AAChB,AAAI,IAAA,AAAA,OAAO;AACX,AAAI,IAAA,AAAA,MAAM,CAAC;EAAE,OAAO,EAAC,EAAG;EAAE,OAAO,EAAC,KAAM;CAAI;;;AAC5C,AAAI,IAAA,AAAA,MAAM,CAAC;EAAE,KAAK,EAAC,IAAK;CAAG;;AAC3B,mBAAmB;AAInB,oBAAoB;;AACpB,AAAA,IAAI,CAAC;EACD,OAAO,EAAE,KAAM;EACf,KAAK,EAAC,IAAK;EACX,MAAM,EAAE,gBAAiB;CAC5B;;;AACD,AAAI,IAAA,AAAA,YAAY,CAAC;EAAE,WAAW,EAAE,CAAE;CAAI;;;AAEtC,AAAA,MAAM,CAAC;EACH,KAAK,EAAE,IAAK;CACf;;;AAED,AAAA,MAAM,CAAC;EACH,KAAK,EAAE,MAAO;CACjB;;;AAED,AAAA,MAAM,CAAC;EACH,KAAK,EAAE,MAAO;CACjB;;;AAED,AAAA,MAAM,CAAC;EACH,KAAK,EAAE,MAAO;CACjB;;;AAED,AAAA,MAAM,CAAC;EACH,KAAK,EAAE,MAAO;CACjB;;;AAED,AAAA,MAAM,CAAC;EACH,KAAK,EAAE,MAAO;CACjB;;;AAED,AAAA,MAAM,CAAC;EACH,KAAK,EAAE,MAAO;CACjB;;;AAED,AAAA,MAAM,CAAC;EACH,KAAK,EAAE,MAAO;CACjB",
+	"names": []
+}

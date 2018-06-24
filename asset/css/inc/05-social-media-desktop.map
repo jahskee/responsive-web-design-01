@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../../scss/inc/05-social-media-desktop.css",
+	"sources": [
+		"../../scss/inc/05-social-media-desktop.scss"
+	],
+	"sourcesContent": [
+		".social-media-desktop {\n    display: block;\n    float: right;\n    margin-right: 10px;\n    position: relative;\n    left: 210px;\n    top: -15px;\n\n    -webkit-box-shadow: 9px 6px 44px -4px rgba(0,0,0,0.75);\n    -moz-box-shadow: 9px 6px 44px -4px rgba(0,0,0,0.75);\n    box-shadow: 9px 6px 44px -4px rgba(0,0,0,0.75);\n}\n\n"
+	],
+	"mappings": ";AAAA,AAAA,qBAAqB,CAAC;EAClB,OAAO,EAAE,KAAM;EACf,KAAK,EAAE,KAAM;EACb,YAAY,EAAE,IAAK;EACnB,QAAQ,EAAE,QAAS;EACnB,IAAI,EAAE,KAAM;EACZ,GAAG,EAAE,KAAM;EAEX,kBAAkB,EAAE,GAAG,CAAC,GAAG,CAAC,IAAI,CAAE,IAAG,CAAC,mBAAI;EAC1C,eAAe,EAAE,GAAG,CAAC,GAAG,CAAC,IAAI,CAAE,IAAG,CAAC,mBAAI;EACvC,UAAU,EAAE,GAAG,CAAC,GAAG,CAAC,IAAI,CAAE,IAAG,CAAC,mBAAI;CACrC",
+	"names": []
+}

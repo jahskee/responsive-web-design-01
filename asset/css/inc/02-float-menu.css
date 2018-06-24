@@ -1,0 +1,42 @@
+/* line 1, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/02-float-menu.scss */
+.float-menu {
+  position: fixed;
+  top: 90px;
+  left: 0;
+  width: 100px;
+  float: right;
+  z-index: 21;
+  margin-left: 5px;
+}
+
+/* line 11, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/02-float-menu.scss */
+.float-menu ul {
+  list-style: none;
+}
+
+/* line 16, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/02-float-menu.scss */
+.float-menu ul li {
+  display: block;
+  margin-bottom: 5px;
+}
+
+/* line 20, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/02-float-menu.scss */
+.float-menu ul li a {
+  display: block;
+  padding: 15px;
+  font-weight: bold;
+  border: 5px solid white;
+  background: #395385;
+  color: white;
+  text-decoration: none;
+  -webkit-box-shadow: 9px 6px 44px -4px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 9px 6px 44px -4px rgba(0, 0, 0, 0.75);
+  box-shadow: 9px 6px 44px -4px rgba(0, 0, 0, 0.75);
+}
+
+/* line 33, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/02-float-menu.scss */
+.float-menu ul li a:hover {
+  background: rgba(72, 105, 168, 0.86);
+}
+
+/*# sourceMappingURL=../../css/inc/02-float-menu.map */

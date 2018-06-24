@@ -1,0 +1,59 @@
+
+.footer-links {
+    background: darkgray;
+   /* font-style: italic;*/
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+.menu-group-01 {
+    font-size: 1em;
+    display: block;
+    width: 350px;
+    margin: 0 auto;
+    background: darkgray;
+    text-align: center;
+}
+
+.menu-item {
+    display: inline-block;
+    font-size: 0.8em;
+    margin: 10px;
+}
+
+.menu-links {
+    margin-left: 50px;
+}
+
+.menu-item ul li {
+    display: block;
+}
+
+.menu-item ul li a{
+    display: block;
+    padding: 2px 30px;
+}
+
+.menu-item h3 {
+    font-size: 1em;
+    color: black;
+}
+
+.menu-item ul li a:link,
+.menu-item ul li a:visited,
+.menu-item ul li a:active {
+    text-decoration: none;
+    color: #1a1a1a;
+}
+
+.menu-item ul li a:hover {
+    background:black;
+    color: white;
+}
+
+.menu-item ul {
+    padding-top: 3px;
+     /*padding-left: 10px;*/
+
+}

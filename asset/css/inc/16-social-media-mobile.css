@@ -1,0 +1,27 @@
+/*
+.social-media-mobile {
+    display:block;
+    background: blue;
+
+
+    width:195px;
+    margin: 0 auto;
+}
+*/
+/* line 11, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/16-social-media-mobile.scss */
+.social-media-mobile ul li {
+  display: inline-block;
+}
+
+/* line 15, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/16-social-media-mobile.scss */
+.social-media-mobile ul li a {
+  display: block;
+}
+
+/* line 19, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/16-social-media-mobile.scss */
+.social-media-mobile {
+  width: 200px;
+  margin: 0 auto;
+}
+
+/*# sourceMappingURL=../../css/inc/16-social-media-mobile.map */

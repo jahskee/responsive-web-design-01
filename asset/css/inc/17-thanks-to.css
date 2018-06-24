@@ -1,0 +1,41 @@
+/* line 1, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/17-thanks-to.scss */
+.thanks-to {
+  text-align: center;
+  font-size: 0.8em;
+  padding-bottom: 50px;
+  background: darkgrey;
+}
+
+/* line 9, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/17-thanks-to.scss */
+.thanks-to h3 {
+  font-size: 1em;
+  padding-top: 30px;
+}
+
+/* line 15, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/17-thanks-to.scss */
+.thanks-to ul {
+  padding-top: 15px;
+  display: inline-block;
+}
+
+/* line 19, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/17-thanks-to.scss */
+.thanks-to ul li a {
+  display: block;
+  padding: 3px;
+}
+
+/* line 24, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/17-thanks-to.scss */
+.thanks-to ul li a:link,
+.thanks-to ul li a:active,
+.thanks-to ul li a:visited {
+  text-decoration: none;
+  color: #131313;
+}
+
+/* line 31, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/17-thanks-to.scss */
+.thanks-to ul li a:hover {
+  background: black;
+  color: white;
+}
+
+/*# sourceMappingURL=../../css/inc/17-thanks-to.map */

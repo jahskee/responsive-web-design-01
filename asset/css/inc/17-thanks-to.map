@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../../scss/inc/17-thanks-to.css",
+	"sources": [
+		"../../scss/inc/17-thanks-to.scss"
+	],
+	"sourcesContent": [
+		".thanks-to {\n    text-align: center;\n    font-size: 0.8em;\n    padding-bottom: 50px;\n    background: darkgrey;\n\n}\n\n.thanks-to h3{\n    font-size: 1em;\n    padding-top: 30px;\n\n}\n\n.thanks-to ul{\n    padding-top: 15px;\n    display: inline-block;\n}\n.thanks-to ul li a {\n    display: block;\n    padding: 3px;\n}\n\n.thanks-to ul li a:link,\n.thanks-to ul li a:active,\n.thanks-to ul li a:visited {\n    text-decoration: none;\n    color: #131313;\n}\n\n.thanks-to ul li a:hover{\n    background: black;\n    color: white;\n}"
+	],
+	"mappings": ";AAAA,AAAA,UAAU,CAAC;EACP,UAAU,EAAE,MAAO;EACnB,SAAS,EAAE,KAAM;EACjB,cAAc,EAAE,IAAK;EACrB,UAAU,EAAE,QAAS;CAExB;;;AAED,AAAW,UAAD,CAAC,EAAE,CAAA;EACT,SAAS,EAAE,GAAI;EACf,WAAW,EAAE,IAAK;CAErB;;;AAED,AAAW,UAAD,CAAC,EAAE,CAAA;EACT,WAAW,EAAE,IAAK;EAClB,OAAO,EAAE,YAAa;CACzB;;;AACD,AAAiB,UAAP,CAAC,EAAE,CAAC,EAAE,CAAC,CAAC,CAAC;EACf,OAAO,EAAE,KAAM;EACf,OAAO,EAAE,GAAI;CAChB;;;AAED,AAAkB,UAAR,CAAC,EAAE,CAAC,EAAE,CAAC,CAAC,AAAA,KAAK;AACvB,AAAkB,UAAR,CAAC,EAAE,CAAC,EAAE,CAAC,CAAC,AAAA,OAAO;AACzB,AAAkB,UAAR,CAAC,EAAE,CAAC,EAAE,CAAC,CAAC,AAAA,QAAQ,CAAC;EACvB,eAAe,EAAE,IAAK;EACtB,KAAK,EAAE,OAAQ;CAClB;;;AAED,AAAkB,UAAR,CAAC,EAAE,CAAC,EAAE,CAAC,CAAC,AAAA,MAAM,CAAA;EACpB,UAAU,EAAE,KAAM;EAClB,KAAK,EAAE,KAAM;CAChB",
+	"names": []
+}

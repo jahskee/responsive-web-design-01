@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../../scss/inc/02-float-menu.css",
+	"sources": [
+		"../../scss/inc/02-float-menu.scss"
+	],
+	"sourcesContent": [
+		".float-menu {\n    position: fixed;\n    top: 90px;\n    left: 0;\n    width: 100px;\n    float: right;\n    z-index: 21;\n    margin-left: 5px;\n}\n\n.float-menu ul {\n    list-style: none;\n\n\n}\n.float-menu ul li {\n    display: block;\n    margin-bottom: 5px;\n}\n.float-menu ul li a {\n    display: block;\n    padding: 15px;\n    font-weight: bold;\n    border: 5px solid white;\n    background: #395385;\n    color: white;\n    text-decoration: none;\n    -webkit-box-shadow: 9px 6px 44px -4px rgba(0,0,0,0.75);\n    -moz-box-shadow: 9px 6px 44px -4px rgba(0,0,0,0.75);\n    box-shadow: 9px 6px 44px -4px rgba(0,0,0,0.75);\n}\n\n.float-menu ul li a:hover {\n    background: rgba(72, 105, 168, 0.86);\n}"
+	],
+	"mappings": ";AAAA,AAAA,WAAW,CAAC;EACR,QAAQ,EAAE,KAAM;EAChB,GAAG,EAAE,IAAK;EACV,IAAI,EAAE,CAAE;EACR,KAAK,EAAE,KAAM;EACb,KAAK,EAAE,KAAM;EACb,OAAO,EAAE,EAAG;EACZ,WAAW,EAAE,GAAI;CACpB;;;AAED,AAAY,WAAD,CAAC,EAAE,CAAC;EACX,UAAU,EAAE,IAAK;CAGpB;;;AACD,AAAe,WAAJ,CAAC,EAAE,CAAC,EAAE,CAAC;EACd,OAAO,EAAE,KAAM;EACf,aAAa,EAAE,GAAI;CACtB;;;AACD,AAAkB,WAAP,CAAC,EAAE,CAAC,EAAE,CAAC,CAAC,CAAC;EAChB,OAAO,EAAE,KAAM;EACf,OAAO,EAAE,IAAK;EACd,WAAW,EAAE,IAAK;EAClB,MAAM,EAAE,eAAgB;EACxB,UAAU,EAAE,OAAQ;EACpB,KAAK,EAAE,KAAM;EACb,eAAe,EAAE,IAAK;EACtB,kBAAkB,EAAE,GAAG,CAAC,GAAG,CAAC,IAAI,CAAE,IAAG,CAAC,mBAAI;EAC1C,eAAe,EAAE,GAAG,CAAC,GAAG,CAAC,IAAI,CAAE,IAAG,CAAC,mBAAI;EACvC,UAAU,EAAE,GAAG,CAAC,GAAG,CAAC,IAAI,CAAE,IAAG,CAAC,mBAAI;CACrC;;;AAED,AAAmB,WAAR,CAAC,EAAE,CAAC,EAAE,CAAC,CAAC,AAAA,MAAM,CAAC;EACtB,UAAU,EAAE,wBAAI;CACnB",
+	"names": []
+}

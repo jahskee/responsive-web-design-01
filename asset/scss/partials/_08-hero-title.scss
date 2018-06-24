@@ -1,0 +1,59 @@
+.hero-title {
+    position: absolute;
+    top: 300px;
+    font-size: 3em;
+    font-family: playball;
+    z-index: 20;
+    width: 100%;
+
+    color: white;
+    text-align: center;
+
+    text-shadow: rgb(3, 3, 3) 3px 3px 7px;
+    pointer-events: none;
+
+    h3 {
+        position: relative;
+        left: -100px;
+        z-index: 20;
+    }
+
+    h1  {
+        position: relative;
+        left: 100px;
+        z-index: 20;
+    }
+}
+
+
+/*
+.hero-title h3 {
+    animation: left2right 20s ease alternate infinite;
+}
+
+.hero-title h1 {
+    animation: right2left 20s ease alternate infinite;
+}
+
+@keyframes left2right {
+   from {
+       left:-400px;
+
+   }
+
+   to {
+        left: 400px;
+
+   }
+}
+
+@keyframes right2left {
+    from {
+        left:400px;
+    }
+
+    to {
+        left: -400px;
+    }
+}
+*/

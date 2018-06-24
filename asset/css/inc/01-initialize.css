@@ -1,0 +1,35 @@
+@font-face {
+  font-family: playball;
+  src: url(/asset/font/Playball.ttf);
+}
+
+/* line 6, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/01-initialize.scss */
+html {
+  box-sizing: border-box;
+  margin-top: 0px;
+}
+
+/* line 11, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/01-initialize.scss */
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+/* line 17, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/01-initialize.scss */
+body {
+  font-family: Georgia, Arial, Geneva, sans-serif;
+  background-color: lightgray;
+}
+
+/* line 22, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/01-initialize.scss */
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+/* line 26, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/01-initialize.scss */
+h1 {
+  font-size: 1.6em;
+}
+
+/*# sourceMappingURL=../../css/inc/01-initialize.map */

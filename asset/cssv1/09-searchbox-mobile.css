@@ -1,0 +1,36 @@
+.searchbox-mobile input[type='text']{
+    height: 35px;
+    width: 100%;
+}
+
+.searchbox-mobile .search-btn {
+    font-size: .8em;
+    position: relative;
+  /*  left:-5px;*/
+    height: 35px;
+    font-weight: bold;
+    background: rgba(25, 36, 58, 0.8);
+ /*   border: 1px #19243a solid;*/
+    color: white;
+    width: 100%;
+
+    /*width: ;*/
+}
+
+.searchbox-mobile .search-btn:hover {
+    background-color: rgba(71, 111, 173, 0.89);
+
+}
+
+.searchbox-mobile input {
+    /*border-radius: 10px;*/
+    font-size: .8em;
+    height: 20px;
+}
+
+.searchbox-mobile {
+    display: block;
+    width: 100%;
+    margin: 5px auto;
+
+}

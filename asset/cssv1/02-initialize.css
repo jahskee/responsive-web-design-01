@@ -1,0 +1,28 @@
+
+@font-face {
+    font-family: playball;
+    src: url(/asset/font/Playball.ttf);
+}
+
+html {
+    box-sizing: border-box;
+    margin-top: 0px;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: Georgia, Arial, Geneva, sans-serif;
+    background-color: lightgray;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+h1 { font-size: 1.6em;}
+

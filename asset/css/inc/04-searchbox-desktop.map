@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../../scss/inc/04-searchbox-desktop.css",
+	"sources": [
+		"../../scss/inc/04-searchbox-desktop.scss"
+	],
+	"sourcesContent": [
+		".searchbox-desktop {\n    display: block;\n    float: right;\n    position: relative;\n    top: -80px;\n    margin-right:20px;\n\n}\n.searchbox-desktop input[type='text']{\n    width: 10em;\n}\n\n.searchbox-desktop .search-btn {\n    font-size: .8em;\n    position: relative;\n    left:-5px;\n    height: 22px;\n    border-top-right-radius: 10px;\n    border-bottom-right-radius: 10px;\n    font-weight: bold;\n    background: #395385;\n    border: 1px #395385 solid;\n    color: white;\n}\n\n.searchbox-desktop .search-btn:hover {\n    background-color: lightblue;\n\n}\n\n.searchbox-desktop input {\n    /*border-radius: 10px;*/\n    font-size: .8em;\n    height: 1.5em;\n}"
+	],
+	"mappings": ";AAAA,AAAA,kBAAkB,CAAC;EACf,OAAO,EAAE,KAAM;EACf,KAAK,EAAE,KAAM;EACb,QAAQ,EAAE,QAAS;EACnB,GAAG,EAAE,KAAM;EACX,YAAY,EAAC,IAAK;CAErB;;;AACD,AAAoC,kBAAlB,CAAC,KAAK,CAAA,AAAA,IAAC,CAAK,MAAM,AAAX,EAAY;EACjC,KAAK,EAAE,IAAK;CACf;;;AAED,AAAmB,kBAAD,CAAC,WAAW,CAAC;EAC3B,SAAS,EAAE,IAAK;EAChB,QAAQ,EAAE,QAAS;EACnB,IAAI,EAAC,IAAK;EACV,MAAM,EAAE,IAAK;EACb,uBAAuB,EAAE,IAAK;EAC9B,0BAA0B,EAAE,IAAK;EACjC,WAAW,EAAE,IAAK;EAClB,UAAU,EAAE,OAAQ;EACpB,MAAM,EAAE,iBAAkB;EAC1B,KAAK,EAAE,KAAM;CAChB;;;AAED,AAA8B,kBAAZ,CAAC,WAAW,AAAA,MAAM,CAAC;EACjC,gBAAgB,EAAE,SAAU;CAE/B;;;AAED,AAAmB,kBAAD,CAAC,KAAK,CAAC;EACrB,wBAAwB;EACxB,SAAS,EAAE,IAAK;EAChB,MAAM,EAAE,KAAM;CACjB",
+	"names": []
+}

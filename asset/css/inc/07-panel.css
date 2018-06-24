@@ -1,0 +1,56 @@
+/* line 1, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/07-panel.scss */
+.panel-plain {
+  padding: 10px;
+  padding-top: 15px;
+  padding-left: 15px;
+  /*
+    -webkit-box-shadow: 9px 6px 44px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 9px 6px 44px -4px rgba(0,0,0,0.75);
+    box-shadow: 9px 6px 44px -4px rgba(0,0,0,0.75);
+*/
+}
+
+/* line 15, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/07-panel.scss */
+.panel {
+  /* margin-bottom: 10px;*/
+  /*height: 500px;*/
+  background: white;
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+/* line 23, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/07-panel.scss */
+.panel p {
+  /*text-align: justify;*/
+}
+
+/*
+.panel img {
+    width: 65%;
+    float: left;
+    padding-right: 10px;
+}
+*/
+/* line 34, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/07-panel.scss */
+.col {
+  background: #d3d3d3;
+}
+
+/* line 38, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/07-panel.scss */
+.col-4 img {
+  float: left;
+  width: 350px;
+  float: left;
+  padding-right: 10px;
+}
+
+/* line 46, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/07-panel.scss */
+.col-2 img {
+  float: left;
+  width: 100%;
+  float: left;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+/*# sourceMappingURL=../../css/inc/07-panel.map */

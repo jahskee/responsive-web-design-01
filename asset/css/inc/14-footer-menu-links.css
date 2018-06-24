@@ -1,0 +1,68 @@
+/* line 2, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/14-footer-menu-links.scss */
+.footer-links {
+  background: darkgray;
+  /* font-style: italic;*/
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+/* line 10, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/14-footer-menu-links.scss */
+.menu-group-01 {
+  font-size: 1em;
+  display: block;
+  width: 350px;
+  margin: 0 auto;
+  background: darkgray;
+  text-align: center;
+}
+
+/* line 19, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/14-footer-menu-links.scss */
+.menu-item {
+  display: inline-block;
+  font-size: 0.8em;
+  margin: 10px;
+}
+
+/* line 25, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/14-footer-menu-links.scss */
+.menu-links {
+  margin-left: 50px;
+}
+
+/* line 29, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/14-footer-menu-links.scss */
+.menu-item ul li {
+  display: block;
+}
+
+/* line 33, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/14-footer-menu-links.scss */
+.menu-item ul li a {
+  display: block;
+  padding: 2px 30px;
+}
+
+/* line 38, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/14-footer-menu-links.scss */
+.menu-item h3 {
+  font-size: 1em;
+  color: black;
+}
+
+/* line 43, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/14-footer-menu-links.scss */
+.menu-item ul li a:link,
+.menu-item ul li a:visited,
+.menu-item ul li a:active {
+  text-decoration: none;
+  color: #1a1a1a;
+}
+
+/* line 50, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/14-footer-menu-links.scss */
+.menu-item ul li a:hover {
+  background: black;
+  color: white;
+}
+
+/* line 55, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/14-footer-menu-links.scss */
+.menu-item ul {
+  padding-top: 3px;
+  /*padding-left: 10px;*/
+}
+
+/*# sourceMappingURL=../../css/inc/14-footer-menu-links.map */

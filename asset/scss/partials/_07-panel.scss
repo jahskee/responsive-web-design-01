@@ -1,0 +1,44 @@
+.panel-plain {
+
+    padding: 10px;
+    padding-top: 15px;
+    padding-left: 15px;
+
+/*
+    -webkit-box-shadow: 9px 6px 44px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 9px 6px 44px -4px rgba(0,0,0,0.75);
+    box-shadow: 9px 6px 44px -4px rgba(0,0,0,0.75);
+*/
+
+}
+
+.panel {
+   /* margin-bottom: 10px;*/
+    /*height: 500px;*/
+    background: white;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+
+.col {
+    background: #d3d3d3;
+}
+
+.col-4 img {
+
+    float: left;
+    width: 350px;
+    float: left;
+    padding-right: 10px;
+}
+
+.col-2 img {
+    float: left;
+    width: 100%;
+    float: left;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+

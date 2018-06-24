@@ -1,0 +1,14 @@
+/* line 1, /home/releasemgr/Desktop/harvardproj/dgmd27-project01/asset/scss/inc/05-social-media-desktop.scss */
+.social-media-desktop {
+  display: block;
+  float: right;
+  margin-right: 10px;
+  position: relative;
+  left: 210px;
+  top: -15px;
+  -webkit-box-shadow: 9px 6px 44px -4px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 9px 6px 44px -4px rgba(0, 0, 0, 0.75);
+  box-shadow: 9px 6px 44px -4px rgba(0, 0, 0, 0.75);
+}
+
+/*# sourceMappingURL=../../css/inc/05-social-media-desktop.map */

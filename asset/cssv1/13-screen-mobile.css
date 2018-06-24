@@ -1,0 +1,138 @@
+/* query for mobile phone devices */
+@media only screen
+and (max-width: 479px) {
+    .col {  margin: 1% 0 1% 0%; }
+    .col-1, .col-2, .col-3, .col-4,
+    .col-5, .col-6, .col-7, .col-8
+    { width: 98%;
+        margin-right: 0}
+
+    .main-menu {
+        display: none;
+    }
+
+    div .col {
+        margin-right: 0px;
+    }
+
+        .panel img {
+        width: 100%;
+    }
+    .panel {
+        height: inherit;
+    }
+
+
+    .header #cssmenu ul {
+        border: 0;
+        width: 100%;
+    }
+    .header #cssmenu ul ul {
+        border: none;
+        position: inherit;
+        top: 0;
+        width: 100%;
+    }
+
+    .sponsors img {
+        width: 50px;
+        height: 60px;
+    }
+
+    .see-more img{
+        width: 30px;
+
+    }
+
+    .sponsors img{
+        width: 45px;
+        height: 30px;
+        margin: 15px
+    }
+
+    .col img {
+        margin-bottom: 1em;
+    }
+
+    .header {
+        position: inherit;
+        z-index:10;
+        padding: 0px;
+    }
+
+
+    .wrapper {
+        width: 100%;
+        position: inherit;
+        margin-top: 20px;
+       /* top: 0px;*/
+
+    }
+
+    .header #cssmenu {
+        background: rgba(41,0,0,0.0);
+
+        position: inherit;
+        top: 0px;
+    }
+
+    .footer-sponsors {
+        width: 100%;
+    }
+
+    .footer-menus {
+        width: 100%;
+    }
+
+
+    .footer-shares {
+        width: 100%;
+    }
+
+    .header .social-media-top {
+        position: absolute;
+        display: none;
+        /*top: 0px;*/
+    }
+
+    .searchbox-desktop {
+        display: none;
+    }
+
+    .searchbox-mobile {
+        display: block;
+    }
+
+    .social-media-desktop {
+        display: none;
+    }
+
+    .social-media-mobile {
+        display: block;
+    }
+
+    .header {
+        background: url(../img/header/header-mobile.jpg);
+    }
+
+    .hero-title {
+        top: 150px;
+        font-size: 1.2em;
+    }
+
+    .hero-title h3 {
+        left: -20px;
+    }
+
+    .hero-title h1  {
+        left: 20px;
+    }
+
+    .float-menu {
+        display: none;
+    }
+
+    .col p {
+        font-size: 4vw;
+    }
+}

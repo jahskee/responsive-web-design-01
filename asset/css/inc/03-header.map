@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../../scss/inc/03-header.css",
+	"sources": [
+		"../../scss/inc/03-header.scss"
+	],
+	"sourcesContent": [
+		".header {\n    background: url(../img/header/header-desktop.jpg);\n\n    color: #dfdfdf;\n    padding: 0px;\n    border: 0 solid white;\n    margin: 0;\n    border-top: 5px solid white;\n    border-bottom: 5px solid white;\n    position: fixed;\n    width: 100%;\n    top: 0;\n    z-index: 3;\n\n    height: 70px;\n\n    -webkit-box-shadow: 9px 6px 44px -4px rgba(0,0,0,0.75);\n    -moz-box-shadow: 9px 6px 44px -4px rgba(0,0,0,0.75);\n    box-shadow: 9px 6px 44px -4px rgba(0,0,0,0.75);\n\n}\n\n.header .logo-title {\n    font-family: playball;\n    display: inline-block;\n    /*text-shadow: 0 5px 8px 0 rgba(189, 189, 189, 0.2), 0 6px 20px 0 rgba(239, 239, 239, 0.19);*/\n    text-shadow:4px 4px 4px #050505;\n    color: white;\n    font-weight: bold;\n    font-size: 2.1em;\n    padding-left: 5px;\n\n    position: relative;\n    top: -14px;\n    left: -40px;\n}\n\n.header .logo-img {\n    display: inline-block;\n    padding-left: 5px;\n}\n"
+	],
+	"mappings": ";AAAA,AAAA,OAAO,CAAC;EACJ,UAAU,EAAsC,qCAAC;EAEjD,KAAK,EAAE,OAAQ;EACf,OAAO,EAAE,GAAI;EACb,MAAM,EAAE,aAAc;EACtB,MAAM,EAAE,CAAE;EACV,UAAU,EAAE,eAAgB;EAC5B,aAAa,EAAE,eAAgB;EAC/B,QAAQ,EAAE,KAAM;EAChB,KAAK,EAAE,IAAK;EACZ,GAAG,EAAE,CAAE;EACP,OAAO,EAAE,CAAE;EAEX,MAAM,EAAE,IAAK;EAEb,kBAAkB,EAAE,GAAG,CAAC,GAAG,CAAC,IAAI,CAAE,IAAG,CAAC,mBAAI;EAC1C,eAAe,EAAE,GAAG,CAAC,GAAG,CAAC,IAAI,CAAE,IAAG,CAAC,mBAAI;EACvC,UAAU,EAAE,GAAG,CAAC,GAAG,CAAC,IAAI,CAAE,IAAG,CAAC,mBAAI;CAErC;;;AAED,AAAQ,OAAD,CAAC,WAAW,CAAC;EAChB,WAAW,EAAE,QAAS;EACtB,OAAO,EAAE,YAAa;EACtB,8FAA8F;EAC9F,WAAW,EAAC,mBAAoB;EAChC,KAAK,EAAE,KAAM;EACb,WAAW,EAAE,IAAK;EAClB,SAAS,EAAE,KAAM;EACjB,YAAY,EAAE,GAAI;EAElB,QAAQ,EAAE,QAAS;EACnB,GAAG,EAAE,KAAM;EACX,IAAI,EAAE,KAAM;CACf;;;AAED,AAAQ,OAAD,CAAC,SAAS,CAAC;EACd,OAAO,EAAE,YAAa;EACtB,YAAY,EAAE,GAAI;CACrB",
+	"names": []
+}
